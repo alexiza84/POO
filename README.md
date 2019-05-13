@@ -1,2 +1,2 @@
 # POO
-Repoditorio de Programacion Orientada a Objetos
+Repositorio de Programacion Orientada a Objetos
